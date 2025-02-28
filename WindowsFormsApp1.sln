@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{FCDA5DF5-B018-4A2C-8462-2B2CF90495E6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Find&Rescue 1.0", "Find&Rescue 1.0\Find&Rescue 1.0.vdproj", "{FD50944E-8B75-425C-A925-C25AA970CAB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCDA5DF5-B018-4A2C-8462-2B2CF90495E6}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDA5DF5-B018-4A2C-8462-2B2CF90495E6}.All|Any CPU.Build.0 = Release|Any CPU
+		{FCDA5DF5-B018-4A2C-8462-2B2CF90495E6}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDA5DF5-B018-4A2C-8462-2B2CF90495E6}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{FCDA5DF5-B018-4A2C-8462-2B2CF90495E6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDA5DF5-B018-4A2C-8462-2B2CF90495E6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{FD50944E-8B75-425C-A925-C25AA970CAB8}.All|Any CPU.ActiveCfg = Debug
+		{FD50944E-8B75-425C-A925-C25AA970CAB8}.Debug|Any CPU.ActiveCfg = Release
+		{FD50944E-8B75-425C-A925-C25AA970CAB8}.Debug|Any CPU.Build.0 = Release
+		{FD50944E-8B75-425C-A925-C25AA970CAB8}.Release|Any CPU.ActiveCfg = Release
+		{FD50944E-8B75-425C-A925-C25AA970CAB8}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73EA58CB-EBAA-4D24-A9AD-91C7841C8E3B}
+	EndGlobalSection
+EndGlobal
